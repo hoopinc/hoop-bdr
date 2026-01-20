@@ -9,7 +9,15 @@ Conduct thorough research to identify and qualify potential leads that match the
 ## ICP Definition
 
 <icp_criteria>
-{{ICP_CRITERIA}}
+- **Business Type**: Ecommerce brands (D2C preferred, B2B ecommerce also acceptable)
+- **Company Age**: Minimum 3 years in operation
+- **Platform**: Currently using Shopify as their ecommerce backend
+- **Geography**: Headquartered in the United States
+- **Indicators to Look For**:
+  - Shopify Plus or standard Shopify storefronts
+  - Active online store with regular product updates
+  - Established brand presence (social media, reviews, press coverage)
+  - Signs of growth or scaling challenges
 </icp_criteria>
 
 ## Research Process
