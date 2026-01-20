@@ -1,0 +1,57 @@
+{
+  "session_id": "2026-01-19",
+  "icp_summary": "US ecommerce brands, 3+ years, Shopify backend",
+  "leads_researched": [
+    {
+      "company": "Caraway",
+      "status": "qualified",
+      "score": 4.8,
+      "priority": "high",
+      "primary_contact": "Jordan Nathan (Founder & CEO)",
+      "trigger": "Rapid product expansion, no CMO"
+    },
+    {
+      "company": "Death Wish Coffee",
+      "status": "qualified",
+      "score": 4.8,
+      "priority": "high",
+      "primary_contact": "Steve Gardiner (CEO)",
+      "trigger": "New CEO, leadership transition"
+    },
+    {
+      "company": "Fly By Jing",
+      "status": "qualified",
+      "score": 4.4,
+      "priority": "high",
+      "primary_contact": "Cindy Hofbauer (Head of Marketing)",
+      "trigger": "Omnichannel scaling"
+    },
+    {
+      "company": "Ruggable",
+      "status": "qualified",
+      "score": 4.3,
+      "priority": "high",
+      "primary_contact": "Jenna Habayeb (CMO)",
+      "trigger": "International expansion"
+    },
+    {
+      "company": "Made In Cookware",
+      "status": "qualified",
+      "score": 4.0,
+      "priority": "high",
+      "primary_contact": "Lindsay Jackson (SVP Marketing)",
+      "trigger": "D2C + B2B dual-channel"
+    },
+    {
+      "company": "Dr. Squatch",
+      "status": "disqualified",
+      "score": null,
+      "priority": null,
+      "primary_contact": null,
+      "trigger": "Acquired by Unilever June 2025"
+    }
+  ],
+  "total_qualified": 5,
+  "total_disqualified": 1,
+  "next_steps": "Prioritize outreach to Caraway and Death Wish Coffee"
+}
